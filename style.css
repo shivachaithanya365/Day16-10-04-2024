@@ -1,6 +1,7 @@
 li a:hover {
   background-color: rgb(196, 200, 200);
 }
+
 .center {
   position: absolute;
   color: rgb(255, 255, 255);
@@ -16,6 +17,7 @@ ul {
   overflow: hidden;
   background-color: rgb(255, 255, 255);
   font-family: "Times New Roman", Times, serif;
+
 }
 li a {
   display: block;
@@ -23,9 +25,11 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  
 }
 li {
   float: right;
+  
 }
 p {
   font-size: 28px;
@@ -117,3 +121,4 @@ color: white;
 background-color: black;
 padding: 5px 10px;
 }
+
